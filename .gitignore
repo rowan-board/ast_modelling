@@ -1,0 +1,11 @@
+data/
+plots/
+model_0all_!2.png
+model_0_all_!2.png
+model0_all_!2.png
+model_1_all_!2.png
+model_2_all_!2.png
+model_3_all_!2.png
+model_4_all_!2.png
+models/__pycache__/
+scripts/__pycache__/
